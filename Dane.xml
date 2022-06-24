@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kategorie>
+	<grupa>
+		<szczegóły>
+			<nazwa>Samochody osobowe</nazwa>
+		</szczegóły>
+		<pojazd>
+			<opismarki>
+Marka: Audi
+Koncern macierzysty: Niemcy
+Data powstania: 16.07.1909
+Kraje produkcji: Belgia, Brazylia, Chiny, Hiszpania, Indie
+Indonezja, Japonia, Malezja, Niemcy, Polska, Słowacja,
+Węgry, Ukraina.
+			</opismarki>
+			<nazwa>Audi</nazwa>
+			<model>A4</model>
+			<rok>1999</rok>
+			<pojemność>1.9</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Niemcy</kraj>
+			<pierwszarejestracja>01.01.2000</pierwszarejestracja>
+			<kolor>czarny</kolor>
+			<przebieg>310 432</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>150KM</moc>
+			<skrzynia>manualna 5-biegowa</skrzynia>
+			<miejsca>5</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: BMW
+Koncern macierzysty: Niemcy
+Data powstania: 07.03.1916
+Kraje produkcji: Belgia, Chiny, Hiszpania, Indie
+Japonia, Malezja, Niemcy, Polska, Słowacja, Węgry.
+			</opismarki>
+			<nazwa>BMW</nazwa>
+			<model>X5</model>
+			<rok>2005</rok>
+			<pojemność>2.0</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Niemcy</kraj>
+			<pierwszarejestracja>11.11.2006</pierwszarejestracja>
+			<kolor>czerwony</kolor>
+			<przebieg>170 432</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>250KM</moc>
+			<skrzynia>manualna 5-biegowa</skrzynia>
+			<miejsca>5</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: Mercedes
+Koncern macierzysty: Niemcy
+Data powstania: ok. 1880
+Kraje produkcji: Niemcy, Polska, Belgia,
+Chiny, Hiszpania, Anglia, Brazylia.
+			</opismarki>
+			<nazwa>Mercedes</nazwa>
+			<model>CLA</model>
+			<rok>2020</rok>
+			<pojemność>2.5</pojemność>
+			<napęd>4x4</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Niemcy</kraj>
+			<pierwszarejestracja>10.10.2020</pierwszarejestracja>
+			<kolor>biały</kolor>
+			<przebieg>10 003</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>220KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>5</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: Opel
+Koncern macierzysty: Niemcy
+Data powstania: 21.01.1862
+Kraje produkcji: Niemcy, Polska, Belgia,
+Hiszpania, Anglia, Rosja, Węgry.
+			</opismarki>
+			<nazwa>Opel</nazwa>
+			<model>Astra</model>
+			<rok>2010</rok>
+			<pojemność>1.7</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Belgia</kraj>
+			<pierwszarejestracja>03.04.2011</pierwszarejestracja>
+			<kolor>srebrny</kolor>
+			<przebieg>220 142</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>110KM</moc>
+			<skrzynia>manualna 6-biegowa</skrzynia>
+			<miejsca>5</miejsca>
+		</pojazd>
+	</grupa>
+	<grupa>
+		<szczegóły>
+			<nazwa>Samochody ciężarowe</nazwa>
+		</szczegóły>
+		<pojazd>
+			<opismarki>
+Marka: Volvo
+Koncern macierzysty: Szwecja
+Data powstania: ok. 1927
+Kraje produkcji: Szwecja, Polska, Chiny,
+Niemcy, Indie, Niemcy.
+			</opismarki>
+			<nazwa>Volvo</nazwa>
+			<model>FH 460</model>
+			<rok>2017</rok>
+			<pojemność>11.0</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>3</drzwi>
+			<kraj>Szwecja</kraj>
+			<pierwszarejestracja>01.01.2018</pierwszarejestracja>
+			<kolor>czarny</kolor>
+			<przebieg>680 000</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>460KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>3</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: Scania
+Koncern macierzysty: Szwecja
+Data powstania: ok. 1891
+Kraje produkcji: Argentyna, Brazylia, Francja,
+Holandia, Polska, Rosja, Szwecja.
+			</opismarki>
+			<nazwa>Scania</nazwa>
+			<model>R440</model>
+			<rok>2012</rok>
+			<pojemność>12.0</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>3</drzwi>
+			<kraj>Belgia</kraj>
+			<pierwszarejestracja>16.07.2012</pierwszarejestracja>
+			<kolor>biały</kolor>
+			<przebieg>1 090 000</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>450KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>3</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: MAN
+Koncern macierzysty: Niemcy
+Data powstania: ok. 1758
+Kraje produkcji: Niemcy
+			</opismarki>
+			<nazwa>MAN</nazwa>
+			<model>TGA26430</model>
+			<rok>2005</rok>
+			<pojemność>10.0</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>2</drzwi>
+			<kraj>Niemcy</kraj>
+			<pierwszarejestracja>22.04.2005</pierwszarejestracja>
+			<kolor>biały</kolor>
+			<przebieg>1 149 027</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>430KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>3</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: DAF
+Koncern macierzysty: Holandia
+Data powstania: 01.04.1928
+Kraje produkcji: Brak - już nie produkuje
+			</opismarki>
+			<nazwa>DAF</nazwa>
+			<model>480 XF</model>
+			<rok>2017</rok>
+			<pojemność>12.9</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>2</drzwi>
+			<kraj>Niemcy</kraj>
+			<pierwszarejestracja>17.09.2017</pierwszarejestracja>
+			<kolor>czarny</kolor>
+			<przebieg>349 988</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>480KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>3</miejsca>
+		</pojazd>
+	</grupa>
+	<grupa>
+		<szczegóły>
+			<nazwa>Motory</nazwa>
+		</szczegóły>
+		<pojazd>
+			<opismarki>
+Marka: Honda
+Koncern macierzysty: Japonia
+Data powstania: 24.09.1948
+Kraje produkcji: Anglia, Argentyna, Belgia,
+Brazylia, Chiny, Filipiny, Indie, Indonezja,
+Japonia, Kolumbia, Malezja, Meksyk, Nowa Zelandia,
+Pakistan, Tajlandia, Tajwan, Turcja, USA, Wietnam,
+Włochy.
+			</opismarki>
+			<nazwa>Honda</nazwa>
+			<model>FMX</model>
+			<rok>2006</rok>
+			<pojemność>0.65</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>-</drzwi>
+			<kraj>Włochy</kraj>
+			<pierwszarejestracja>06.03.2006</pierwszarejestracja>
+			<kolor>czerwony</kolor>
+			<przebieg>26 060</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>38KM</moc>
+			<skrzynia>manualna</skrzynia>
+			<miejsca>1</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: BMW
+Koncern macierzysty: Niemcy
+Data powstania: 07.03.1916
+Kraje produkcji: Belgia, Chiny, Hiszpania, Indie
+Japonia, Malezja, Niemcy, Polska, Słowacja, Węgry.
+			</opismarki>			
+			<nazwa>BMW</nazwa>
+			<model>R</model>
+			<rok>2022</rok>
+			<pojemność>1.2</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>-</drzwi>
+			<kraj>Polska</kraj>
+			<pierwszarejestracja>-</pierwszarejestracja>
+			<kolor>szary</kolor>
+			<przebieg>160</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>136KM</moc>
+			<skrzynia>manualna</skrzynia>
+			<miejsca>1</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: Honda
+Koncern macierzysty: Japonia
+Data powstania: 24.09.1948
+Kraje produkcji: Anglia, Argentyna, Belgia,
+Brazylia, Chiny, Filipiny, Indie, Indonezja,
+Japonia, Kolumbia, Malezja, Meksyk, Nowa Zelandia,
+Pakistan, Tajlandia, Tajwan, Turcja, USA, Wietnam,
+Włochy.
+			</opismarki>
+			<nazwa>Honda</nazwa>
+			<model>CBR</model>
+			<rok>2005</rok>
+			<pojemność>1.0</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>-</drzwi>
+			<kraj>Belgia</kraj>
+			<pierwszarejestracja>01.01.2005</pierwszarejestracja>
+			<kolor>czerwony</kolor>
+			<przebieg>39 571</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>170KM</moc>
+			<skrzynia>manualna</skrzynia>
+			<miejsca>1</miejsca>
+		</pojazd>
+		<pojazd>
+			<opismarki>
+Marka: Suzuki
+Koncern macierzysty: Japonia
+Data powstania: 03.10.1909
+Kraje produkcji: Anglia, Argentyna, Belgia,
+Brazylia, Chiny, Filipiny, Indie, Indonezja,
+Japonia, Kolumbia, Malezja, Meksyk, Nowa Zelandia,
+Pakistan, Tajlandia, Tajwan, Turcja, USA, Wietnam,
+Włochy.
+			</opismarki>
+			<nazwa>Suzuki</nazwa>
+			<model>GSX-R</model>
+			<rok>2018</rok>
+			<pojemność>1.0</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>-</drzwi>
+			<kraj>Polska</kraj>
+			<pierwszarejestracja>01.01.20019</pierwszarejestracja>
+			<kolor>czarny</kolor>
+			<przebieg>26 000</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>204KM</moc>
+			<skrzynia>manualna</skrzynia>
+			<miejsca>1</miejsca>
+		</pojazd>
+	</grupa>
+</kategorie>
